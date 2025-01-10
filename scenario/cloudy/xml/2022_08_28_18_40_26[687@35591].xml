@@ -1,24 +1,24 @@
 <?xml version="1.0" ?>
 <doc>
-	<path>D:\黄世昌\Desktop\scenario\train\cloudy\2022_08_28_18_40_26[687@35591].jpg</path>
+	<path>D:\Water-level-detection\scenario\cloudy\2022_08_28_18_40_26[687@35591].jpg</path>
 	<outputs>
 		<object>
 			<item>
 				<name>cloudy_draft</name>
 				<polygon>
-					<x1>1219</x1>
+					<x1>1250</x1>
 					<y1>46</y1>
-					<x2>1249</x2>
-					<y2>45</y2>
-					<x3>1232</x3>
-					<y3>586</y3>
-					<x4>1198</x4>
-					<y4>586</y4>
+					<x2>1236</x2>
+					<y2>590</y2>
+					<x3>1199</x3>
+					<y3>591</y3>
+					<x4>1213</x4>
+					<y4>44</y4>
 				</polygon>
 			</item>
 		</object>
 	</outputs>
-	<time_labeled>1736485136817</time_labeled>
+	<time_labeled>1736518758282</time_labeled>
 	<labeled>true</labeled>
 	<size>
 		<width>1920</width>
