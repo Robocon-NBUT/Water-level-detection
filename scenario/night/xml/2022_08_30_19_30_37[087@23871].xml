@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>E:\QQ下载\night\2022_08_30_19_30_37[087@23871].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>night_draft</name>
+				<polygon>
+					<x1>1211</x1>
+					<y1>50</y1>
+					<x2>1252</x2>
+					<y2>49</y2>
+					<x3>1237</x3>
+					<y3>555</y3>
+					<x4>1203</x4>
+					<y4>556</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736495103923</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

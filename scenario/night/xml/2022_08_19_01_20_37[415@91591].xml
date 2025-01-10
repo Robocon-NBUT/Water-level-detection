@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\Users\黄广松\Desktop\水位检测\scenario\train\night\2022_08_19_01_20_37[415@91591].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>night_draft</name>
+				<polygon>
+					<x1>1217</x1>
+					<y1>46</y1>
+					<x2>1198</x2>
+					<y2>587</y2>
+					<x3>1235</x3>
+					<y3>585</y3>
+					<x4>1254</x4>
+					<y4>44</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736486518747</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

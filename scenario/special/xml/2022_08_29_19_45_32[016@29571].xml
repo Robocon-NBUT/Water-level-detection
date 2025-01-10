@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\黄世昌\Desktop\scenario\train\special\2022_08_29_19_45_32[016@29571].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>special_draft</name>
+				<polygon>
+					<x1>1216</x1>
+					<y1>46</y1>
+					<x2>1250</x2>
+					<y2>46</y2>
+					<x3>1233</x3>
+					<y3>585</y3>
+					<x4>1201</x4>
+					<y4>585</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736491198478</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

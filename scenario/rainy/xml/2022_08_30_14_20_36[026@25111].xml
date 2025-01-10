@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\黄世昌\Desktop\scenario\train\rainy\2022_08_30_14_20_36[026@25111].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>rainy_draft</name>
+				<polygon>
+					<x1>1213</x1>
+					<y1>46</y1>
+					<x2>1249</x2>
+					<y2>45</y2>
+					<x3>1235</x3>
+					<y3>588</y3>
+					<x4>1201</x4>
+					<y4>588</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736485567234</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

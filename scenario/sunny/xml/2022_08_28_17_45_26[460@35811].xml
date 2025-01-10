@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>E:\water_detection\2022_08_28_17_45_26[460@35811].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>sunny_draft</name>
+				<polygon>
+					<x1>1213</x1>
+					<y1>48</y1>
+					<x2>1200</x2>
+					<y2>596</y2>
+					<x3>1236</x3>
+					<y3>591</y3>
+					<x4>1253</x4>
+					<y4>43</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736488860943</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\黄世昌\Desktop\scenario\train\soiling\2022_09_09_09_30_02[248@35351].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>soiling_draft</name>
+				<polygon>
+					<x1>1214</x1>
+					<y1>48</y1>
+					<x2>1248</x2>
+					<y2>46</y2>
+					<x3>1237</x3>
+					<y3>585</y3>
+					<x4>1199</x4>
+					<y4>585</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736489167662</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

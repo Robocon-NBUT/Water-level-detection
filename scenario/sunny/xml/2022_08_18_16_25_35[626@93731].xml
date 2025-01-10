@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\ASUS\Desktop\scenario\train\sunny\2022_08_18_16_25_35[626@93731].jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>sunny_draft</name>
+				<polygon>
+					<x1>1216</x1>
+					<y1>43</y1>
+					<x2>1250</x2>
+					<y2>44</y2>
+					<x3>1237</x3>
+					<y3>591</y3>
+					<x4>1200</x4>
+					<y4>591</y4>
+				</polygon>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1736488894577</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>
